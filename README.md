@@ -1,7 +1,5 @@
 
 
----
-
 # React Native App Orgs
 
 Este repositório, "React-Native-App-Orgs", contém um projeto de aplicativo desenvolvido com React Native. O foco deste app é proporcionar uma experiência móvel otimizada, demonstrando as capacidades do React Native na criação de aplicativos cross-platform para dispositivos móveis. O aplicativo Orgs é uma plataforma destinada a exibir e gerenciar uma variedade de produtos orgânicos.
